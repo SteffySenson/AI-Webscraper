@@ -45,7 +45,3 @@ In Stock: Yes
 ## Contributing
 
 Contributions are welcome! If you have ideas for improvement or find any bugs, feel free to open an issue or submit a pull request.
-
-## License
-
-[MIT License](LICENSE)
